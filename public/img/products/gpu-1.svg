@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300" role="img" aria-label="RTX 4070 12 ГБ">
+    <defs>
+        <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+            <stop offset="0" stop-color="#15803d" stop-opacity=".16"/>
+            <stop offset="1" stop-color="#15803d" stop-opacity=".05"/>
+        </linearGradient>
+    </defs>
+    <rect width="400" height="300" fill="url(#bg)"/>
+    
+        <rect x="86" y="104" width="228" height="104" rx="10" fill="#fff" opacity=".95"/>
+        <circle cx="150" cy="156" r="34" fill="#15803d" opacity=".75"/>
+        <circle cx="150" cy="156" r="14" fill="#fff" opacity=".9"/>
+        <circle cx="240" cy="156" r="34" fill="#15803d" opacity=".6"/>
+        <circle cx="240" cy="156" r="14" fill="#fff" opacity=".9"/>
+        <rect x="86" y="196" width="228" height="10" rx="4" fill="#15803d" opacity=".45"/>
+    
+    <text x="200" y="278" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif"
+          font-size="15" font-weight="600" fill="#3b465c">RTX 4070 12 ГБ</text>
+</svg>

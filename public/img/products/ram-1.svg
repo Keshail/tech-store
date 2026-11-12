@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300" role="img" aria-label="DDR5 32 ГБ">
+    <defs>
+        <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+            <stop offset="0" stop-color="#7c3aed" stop-opacity=".16"/>
+            <stop offset="1" stop-color="#7c3aed" stop-opacity=".05"/>
+        </linearGradient>
+    </defs>
+    <rect width="400" height="300" fill="url(#bg)"/>
+    
+        <rect x="70" y="122" width="260" height="76" rx="8" fill="#fff" opacity=".95"/>
+        <g fill="#7c3aed" opacity=".8">
+            <rect x="86" y="136" width="34" height="34" rx="4"/>
+            <rect x="130" y="136" width="34" height="34" rx="4"/>
+            <rect x="174" y="136" width="34" height="34" rx="4"/>
+            <rect x="218" y="136" width="34" height="34" rx="4"/>
+            <rect x="262" y="136" width="34" height="34" rx="4"/>
+        </g>
+        <g stroke="#7c3aed" stroke-width="5" opacity=".5">
+            <path d="M96 198v22M136 198v22M176 198v22M216 198v22M256 198v22M296 198v22"/>
+        </g>
+    
+    <text x="200" y="278" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif"
+          font-size="15" font-weight="600" fill="#3b465c">DDR5 32 ГБ</text>
+</svg>

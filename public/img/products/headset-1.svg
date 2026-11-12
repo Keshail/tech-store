@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300" role="img" aria-label="Гарнитура 7.1">
+    <defs>
+        <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+            <stop offset="0" stop-color="#7c3aed" stop-opacity=".16"/>
+            <stop offset="1" stop-color="#7c3aed" stop-opacity=".05"/>
+        </linearGradient>
+    </defs>
+    <rect width="400" height="300" fill="url(#bg)"/>
+    
+        <path d="M124 168v-18a76 76 0 0 1 152 0v18" fill="none" stroke="#fff" stroke-width="14" opacity=".95" stroke-linecap="round"/>
+        <rect x="104" y="160" width="34" height="66" rx="16" fill="#7c3aed" opacity=".85"/>
+        <rect x="262" y="160" width="34" height="66" rx="16" fill="#7c3aed" opacity=".85"/>
+        <path d="M128 226q10 18 34 18" fill="none" stroke="#7c3aed" stroke-width="6" opacity=".6" stroke-linecap="round"/>
+    
+    <text x="200" y="278" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif"
+          font-size="15" font-weight="600" fill="#3b465c">Гарнитура 7.1</text>
+</svg>

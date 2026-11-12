@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300" role="img" aria-label="TabMini 8">
+    <defs>
+        <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+            <stop offset="0" stop-color="#0f766e" stop-opacity=".16"/>
+            <stop offset="1" stop-color="#0f766e" stop-opacity=".05"/>
+        </linearGradient>
+    </defs>
+    <rect width="400" height="300" fill="url(#bg)"/>
+    
+        <rect x="118" y="66" width="164" height="168" rx="14" fill="#fff" opacity=".95"/>
+        <rect x="128" y="78" width="144" height="144" rx="8" fill="#0f766e" opacity=".85"/>
+        <circle cx="200" cy="232" r="4" fill="#0f766e" opacity=".5"/>
+    
+    <text x="200" y="278" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif"
+          font-size="15" font-weight="600" fill="#3b465c">TabMini 8</text>
+</svg>

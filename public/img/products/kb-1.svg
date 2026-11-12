@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300" role="img" aria-label="Клавиатура K80">
+    <defs>
+        <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+            <stop offset="0" stop-color="#1d4ed8" stop-opacity=".16"/>
+            <stop offset="1" stop-color="#1d4ed8" stop-opacity=".05"/>
+        </linearGradient>
+    </defs>
+    <rect width="400" height="300" fill="url(#bg)"/>
+    
+        <rect x="76" y="128" width="248" height="88" rx="10" fill="#fff" opacity=".95"/>
+        <g fill="#1d4ed8" opacity=".75">
+            <rect x="90" y="142" width="20" height="16" rx="3"/><rect x="116" y="142" width="20" height="16" rx="3"/>
+            <rect x="142" y="142" width="20" height="16" rx="3"/><rect x="168" y="142" width="20" height="16" rx="3"/>
+            <rect x="194" y="142" width="20" height="16" rx="3"/><rect x="220" y="142" width="20" height="16" rx="3"/>
+            <rect x="246" y="142" width="20" height="16" rx="3"/><rect x="272" y="142" width="38" height="16" rx="3"/>
+            <rect x="90" y="166" width="20" height="16" rx="3"/><rect x="116" y="166" width="20" height="16" rx="3"/>
+            <rect x="142" y="166" width="20" height="16" rx="3"/><rect x="168" y="166" width="20" height="16" rx="3"/>
+            <rect x="194" y="166" width="20" height="16" rx="3"/><rect x="220" y="166" width="20" height="16" rx="3"/>
+            <rect x="246" y="166" width="20" height="16" rx="3"/><rect x="272" y="166" width="38" height="16" rx="3"/>
+            <rect x="90" y="190" width="124" height="14" rx="3"/><rect x="220" y="190" width="90" height="14" rx="3"/>
+        </g>
+    
+    <text x="200" y="278" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif"
+          font-size="15" font-weight="600" fill="#3b465c">Клавиатура K80</text>
+</svg>

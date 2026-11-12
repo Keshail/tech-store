@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300" role="img" aria-label="Nova Lite 128 ГБ">
+    <defs>
+        <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+            <stop offset="0" stop-color="#0e9f6e" stop-opacity=".16"/>
+            <stop offset="1" stop-color="#0e9f6e" stop-opacity=".05"/>
+        </linearGradient>
+    </defs>
+    <rect width="400" height="300" fill="url(#bg)"/>
+    
+        <rect x="152" y="62" width="96" height="176" rx="18" fill="#fff" opacity=".95"/>
+        <rect x="160" y="76" width="80" height="148" rx="12" fill="#0e9f6e" opacity=".85"/>
+        <circle cx="200" cy="70" r="3.5" fill="#0e9f6e" opacity=".6"/>
+        <rect x="186" y="230" width="28" height="4" rx="2" fill="#0e9f6e" opacity=".45"/>
+    
+    <text x="200" y="278" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif"
+          font-size="15" font-weight="600" fill="#3b465c">Nova Lite 128 ГБ</text>
+</svg>
